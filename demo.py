@@ -4,7 +4,6 @@
 """EasyIot平台Rest接口Python示例
 1、需安装Python，下载地址：https://www.python.org/downloads/
 2、需要安装requests，请使用：pip install requests 安装requests。
-3、本示例主要演示在EasyIot平台“文档中心-平台API”中的登录、IOT平台查询、设备管理、业务管理几个接口
 """
 
 import random
